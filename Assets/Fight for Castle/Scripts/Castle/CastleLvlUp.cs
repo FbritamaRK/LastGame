@@ -5,7 +5,7 @@ using UnityEngine;
 public class CastleLvlUp : MonoBehaviour {
 
     public GameObject CastleUp;
-    public int Price = 2000;
+    public int Price = 100;
 
     public void LevelUp()
     {

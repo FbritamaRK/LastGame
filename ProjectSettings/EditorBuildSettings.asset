@@ -6,8 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Apple castle/Scenes/Menu.unity
+    path: Assets/Fight for Castle/Scenes/Menu.unity
     guid: 5122488a0ed84f448a37dbf66bdf1b2c
   - enabled: 1
-    path: Assets/Apple castle/Scenes/Scenes.unity
+    path: Assets/Fight for Castle/Scenes/Scenes.unity
     guid: fd086e9d8adf3084a81154f8a1492382
+  m_configObjects: {}

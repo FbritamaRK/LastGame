@@ -399,7 +399,7 @@ GameObject:
   - component: {fileID: 61584672142219198}
   - component: {fileID: 50323472027843056}
   m_Layer: 0
-  m_Name: Apple
+  m_Name: ac2
   m_TagString: Friend
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
