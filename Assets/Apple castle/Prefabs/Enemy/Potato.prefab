@@ -291,6 +291,7 @@ GameObject:
   - component: {fileID: 114718378726620006}
   - component: {fileID: 114029549023700626}
   - component: {fileID: 114182936081581224}
+  - component: {fileID: 6882570397951266660}
   m_Layer: 0
   m_Name: Potato
   m_TagString: Enemy
@@ -529,6 +530,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DammageCastle: 50
   TimeLeft: 2
+--- !u!95 &6882570397951266660
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650500785055310}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2f6cabb173b20fc499d5910915bcc03c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1829979893455490
 GameObject:
   m_ObjectHideFlags: 0
