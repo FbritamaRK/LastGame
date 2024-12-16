@@ -1532,6 +1532,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6025914673515230996}
     m_Modifications:
+    - target: {fileID: 919809309597317937, guid: 481c6783eb191544483cd06a090d6b3c,
+        type: 3}
+      propertyPath: PriceSkill
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 3810028279676169803, guid: 481c6783eb191544483cd06a090d6b3c,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1926,7 +1931,7 @@ PrefabInstance:
     - target: {fileID: 4920196105032309762, guid: ff8866bd1828ffc42b566d9c4be71595,
         type: 3}
       propertyPath: RateOfFire
-      value: 1
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 5547307135869598570, guid: ff8866bd1828ffc42b566d9c4be71595,
         type: 3}

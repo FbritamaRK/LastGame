@@ -5,7 +5,7 @@ using UnityEngine;
 public class BuyArmy : MonoBehaviour
 {
     public GameObject ApplePrefab;
-    public int Price = 500;
+    public int Price = 25;
 
     public void BuyMyArmy()
     {

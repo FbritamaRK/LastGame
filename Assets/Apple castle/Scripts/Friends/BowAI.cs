@@ -9,7 +9,7 @@ public class BowAI : MonoBehaviour {
     public float Force;
     public float RateOfFire = 0.5F;
 
-    private float nextFire = 0.5F;
+    private float nextFire = 0.1F;
     private float myTime = 0.0F;
 
     void FixedUpdate()
